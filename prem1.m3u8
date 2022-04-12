@@ -4,4 +4,4 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 lklk
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://re1a-usea.streaming.media.azure.net:443/ca02dcf2-8800-4841-a697-0103c238797c/1aaa.ism/QualityLevels(2200000)/Fragments(video=4830120000,format=mpd-time-cmaf)
+http://prod-fastly-eu-central-1.video.pscp.tv:80/Transcoding/v1/hls/TTjDq6D0ZTPIVwBgQwar7baCr3l526JbtRiUKc6ASNtp0eWA1MAJGJtCZ7F4ktsFfYLJ1dc93XB8MDEpfDlZaA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
